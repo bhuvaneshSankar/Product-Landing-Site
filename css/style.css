@@ -1,0 +1,132 @@
+#spl ul{
+    background-color:black;
+    }
+    #spl li a{
+     text-decoration:none;
+     font-family:cursive;
+     color:blue;
+     display:block;
+     
+     text-align:center;
+    }
+    #spl a:hover{
+     color:orange;
+    }
+    #spl a:hover:not(.active){
+     background-color: #111;
+    }
+    #spl .active{
+    background-color: #4CAF50;
+     
+    } 
+    
+    #title h1{
+      font-family:Risque,Lucida Calligraphy,Chiller,Cambria;
+      font-size:10vw;
+      text-align: center;
+      color:#ff1a1a;
+      position:relative;
+      text-shadow:3px 3px 5px blue,6px 6px 10px red;
+    }
+    #logo{
+      max-height:50px;
+      margin-right:20px;
+      margin-top:-7px;
+      display:inline-block;
+    }
+    .btn{
+    border-radius:50%;
+    }
+    #jum{
+    background-image:url(JUM.jpg);
+    background-size:cover;
+    text-align:center;
+    padding:30px;
+    }
+    #jum .jumbotron{
+    margin:auto;
+    max-width:900px;
+    background-color:rgba(255,255,255,0.75);
+    border-radius:45px;
+    
+    } 
+    #run{
+    height:900px;
+    width:100%;
+    }
+    #vid{
+    float:left;
+    width:100%;
+    height:900px;
+    }
+    #color{
+    text-align:center;
+    }
+    #color img
+    {
+    float:left;
+    height:250px;
+    }
+    #color h2{
+    font-family:"Dancing Script", Comic Sans MS, Chiller;
+    }
+    #color p{
+    font-family: "Shadows Into Light",Comic Sans MS, Bradley Hand ITC, Chiller;
+    }
+    #color i{
+    font-size:50px;
+    color:gold;
+    }
+    #design{
+    text-align:center;
+    }
+    
+    #design img
+    {
+    float:right;
+    height:250px;
+    }
+    #design h2{
+    font-family:"Dancing Script",Bradley Hand ITC, Comic Sans MS, Chiller;
+    }
+    #design p{
+    font-family: "Shadows Into Light",Comic Sans MS, Bradley Hand ITC, Chiller;
+    }
+    #design i{
+    font-size:50px;
+    color:silver;
+    }
+    .clmn {
+        -webkit-column-count: 3; /* Chrome, Safari, Opera */
+        -moz-column-count: 3; /* Firefox */
+        column-count: 3;
+        -webkit-column-rule:2px double grey;
+        -moz-column-rule:2px double grey;
+        padding:5px;
+        font-family:Amatic Sc,papyrus;
+    }
+    #header h1{
+    padding:15px;
+    text-align:center;
+    font-family: Pangolin;
+    }
+    #services h1{
+    font-family:"Dancing Script";
+    }
+    #services p{
+    font-family:"Berkshire Swash",Lucida Handwriting;
+    }
+    #contact{
+    background-color:grey;
+    }
+    #carjum h1{
+    color: white;
+      text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
+      font-family:"jokerman",curlz;
+      }
+    #carjum p{
+    font-family:jokerman;
+    }
+    
+    
+    
